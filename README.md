@@ -3,8 +3,8 @@ Demo para el trabajo 2 de Infraestructura TI. Hecho por Alonso Riveros, Diego Pa
 
 Para el funcionamiento de la demo es necesario tener instalado Node.js y posterior a esto instalar react-router-dom, box icons.
     
-    -npm install react-router-dom@5.2.0   (tmb instalar)
-    -npm i boxicons react-router-dom  (hay q instalar eso)
+    -npm install react-router-dom@5.2.0   
+    -npm i boxicons react-router-dom  
     
 En caso de que esto no funcione correctamente también es necesario instalar bootstrap.
     
